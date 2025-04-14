@@ -5,6 +5,8 @@
 Além da minha trajetória na área de tecnologia, possuo uma graduação em Tecnologia em Gestão de Investimentos para o Mercado Financeiro, o que me proporciona uma visão estratégica e analítica – habilidades que também aplico no desenvolvimento de soluções digitais.
 Tenho conhecimento em investimentos e finanças, e acredito que a interseção entre tecnologia e mercado financeiro é um campo cheio de oportunidades para inovar e gerar valor.
 Estou em constante evolução, buscando aprender e crescer tanto como profissional quanto como pessoa.</strong>
-<li> Meu hobby é Fazer atividade física.</li>
+<li> Fora do ambiente profissional, gosto de aproveitar meu tempo livre jogando jogos eletrônicos, praticando atividades ao ar livre e explorando novos lugares com minha família. Acredito que o equilíbrio entre a vida pessoal e profissional é essencial para o desenvolvimento humano e criativo.
+
+</li>
 </ul>
 </html>
